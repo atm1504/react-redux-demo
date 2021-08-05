@@ -1,5 +1,6 @@
 import React from "react";
-import { buyCake } from "./../redux/index";
+// import { buyCake } from "./../redux/index";
+import {buyCake} from "./../redux/index"
 import { connect } from 'react-redux';
 
 function CakeContainer(props) {

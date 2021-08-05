@@ -1,4 +1,1 @@
-import {buyCake} from "./cake/cakeActions"
-
-
-exports.buyCake = buyCake
+export {buyCake} from "./cake/cakeActions"
